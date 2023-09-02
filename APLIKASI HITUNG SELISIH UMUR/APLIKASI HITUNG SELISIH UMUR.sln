@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "APLIKASI HITUNG SELISIH UMUR", "APLIKASI HITUNG SELISIH UMUR\APLIKASI HITUNG SELISIH UMUR.vbproj", "{E57D7F7A-22A1-47D4-A371-8DD2CB2A975A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57D7F7A-22A1-47D4-A371-8DD2CB2A975A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57D7F7A-22A1-47D4-A371-8DD2CB2A975A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57D7F7A-22A1-47D4-A371-8DD2CB2A975A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57D7F7A-22A1-47D4-A371-8DD2CB2A975A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953901C4-29A2-4A33-A01A-6D47A81F947A}
+	EndGlobalSection
+EndGlobal
