@@ -1,0 +1,16 @@
+D:\projek vb\Konversi Suhu\Konversi Suhu\bin\Debug\net6.0-windows\Konversi Suhu.exe
+D:\projek vb\Konversi Suhu\Konversi Suhu\bin\Debug\net6.0-windows\Konversi Suhu.deps.json
+D:\projek vb\Konversi Suhu\Konversi Suhu\bin\Debug\net6.0-windows\Konversi Suhu.runtimeconfig.json
+D:\projek vb\Konversi Suhu\Konversi Suhu\bin\Debug\net6.0-windows\Konversi Suhu.dll
+D:\projek vb\Konversi Suhu\Konversi Suhu\bin\Debug\net6.0-windows\Konversi Suhu.pdb
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi_Suhu.Form1.resources
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.vbproj.GenerateResource.cache
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.AssemblyInfoInputs.cache
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.AssemblyInfo.vb
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.vbproj.CoreCompileInputs.cache
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.dll
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\refint\Konversi Suhu.dll
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.pdb
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\Konversi Suhu.genruntimeconfig.cache
+D:\projek vb\Konversi Suhu\Konversi Suhu\obj\Debug\net6.0-windows\ref\Konversi Suhu.dll
