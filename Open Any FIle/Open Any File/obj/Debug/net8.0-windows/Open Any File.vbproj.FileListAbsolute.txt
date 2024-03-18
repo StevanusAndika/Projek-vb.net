@@ -1,0 +1,19 @@
+D:\DATA PRIBADI\Open Any File\Open Any File\bin\Debug\net8.0-windows\Open Any File.exe
+D:\DATA PRIBADI\Open Any File\Open Any File\bin\Debug\net8.0-windows\Open Any File.deps.json
+D:\DATA PRIBADI\Open Any File\Open Any File\bin\Debug\net8.0-windows\Open Any File.runtimeconfig.json
+D:\DATA PRIBADI\Open Any File\Open Any File\bin\Debug\net8.0-windows\Open Any File.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\bin\Debug\net8.0-windows\Open Any File.pdb
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open_Any_File.Form1.resources
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.vbproj.GenerateResource.cache
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.AssemblyInfoInputs.cache
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.AssemblyInfo.vb
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.vbproj.CoreCompileInputs.cache
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\refint\Open Any File.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.pdb
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.genruntimeconfig.cache
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\ref\Open Any File.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Interop.FOXITREADERLib.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Interop.PDFPreviewHandlerHostLib.dll
+D:\DATA PRIBADI\Open Any File\Open Any File\obj\Debug\net8.0-windows\Open Any File.vbproj.ResolveComReference.cache
